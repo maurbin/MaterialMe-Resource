@@ -22,5 +22,12 @@
         <item name="colorPrimaryDark">#37474F</item>
         <item name="colorAccent">#AA66CC</item>
     </style>
+    <style name="SportsDetailText"
+        parent="TextAppearance.AppCompat.Headline"/>
+    <style name="SportsTitle"
+        parent="TextAppearance.AppCompat.Headline"/>
+    <style name="SportsDetailTitle"
+        parent="TextAppearance.AppCompat.Headline"/>
+
 
 </resources>
